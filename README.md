@@ -1,15 +1,15 @@
-﻿# Utilisation de l'antivirus
+﻿# Ready to go for windows
 
 GO to Developement\GUI_Project\dist\SDO_GUI\
 And launch SDO_GUI.exe
 
 
-# Installation pour de
+# Dev
 
 python3 -m pip install -r requirements.txt
 
-Suivez le Readme de development pour créer un executable avec auto-py-to-exe et pyinstaller, sinon exécuter le avec 
+Follow Development Readme to create an exe with auto-py-to-exe and pyinstaller, else, execute it with
 
-python3 SDO_Gui.py
+`cd Development\GUI_Project\`
 
-depuis le répertoire Development\GUI_Project\
+`python3 SDO_Gui.py`
