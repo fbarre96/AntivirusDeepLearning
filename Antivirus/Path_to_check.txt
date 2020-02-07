@@ -1,0 +1,50 @@
+A vérifier en fonction de la version Windows:
+_ AppData (%APPDATA%)
+_ Local AppData des Users (C:\Users\USERNAME\AppData\Local\Temp voir pour rendre les chemins relatifs avec les variables en %%) => %APPDATA%\..\Local\Temp
+_ Les espaces d'environnement des utilisateurs (%ALLUSERSPROFILE%)
+_ Espace Public (%PUBLIC%)
+_ System32 (C:\Windows\System32)
+_ C:\Windows\Temp
+_ ProgramFiles
+_ CommonFiles
+_ %CommonProgramFiles%
+_ %ProgramFiles%
+
+Monitoring de certaines extensions de fichiers:
+_ .dll
+	_ .exe
+	_ .doc
+	_ .xls
+	_ .docm
+	_ .xlsm
+_ .sys
+_ .scr
+_ .pif
+_ .inf
+_ .com
+_ .bat
+_ .cmd
+_ .vbs
+_ .vbe
+_ .jse
+_ .wsf
+_ .wsh
+_ .msc
+_ .msi
+_ .cpl
+_ .crt
+_ .ocx
+_ .lnk
+_ .job
+_ .nt
+_ .xpd
+_ .js
+_ .tmp
+_ .asp
+_ .aspx
+
+Nouveau Drives à check (Toutes les lettres à part C ?)
+
+Fonctionnement par exclusions des fichiers dans les dossiers Temp\Recent qui vont bouger constamment
+_ %USERPROFILE%\Recent
+_ %APPDATA%\Microsoft\Windows\Recent

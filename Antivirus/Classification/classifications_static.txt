@@ -1,0 +1,49 @@
+.doc
+_ macro ou non ?
+_ ratio texte / code source de manière générale
+_ ratio commentaire / code source dans les macros
+_ ratio clair / offuscation
+_ mraptor: auto-open ? écriture sur le disque ? Execution sur le disque ?
+_ strings recherche IP / domain / clés de registres
+_ taille du fichier
+_ Nombre de macros ?
+_ Date de création du fichier / dernière modification ?
+_ Accès au système de fichier
+_ Persistance (clés, dossiers de démarrage, système, .dll,  écriture sur le disque)
+_ Appel d'autres exécutable (cmd, powershell, msbuild, cscript, ftp, tftp, bitsadmin, nc, wget)
+_ Call vers des sites hébergeants du code (pastebin , etc)
+_ Call vers des IP
+_ Distance dans le code entre 2 call d'API
+_ Anti-debugging dans les macros ?
+
+
+.xls
+_ macro ou non ?
+FAIT _ ratio texte / code source de manière générale
+FAIT _ ratio commentaire / code source dans les macros
+FAIT _ taille moyenne des chaînes de caractères
+FAIT _ mraptor: auto-open ? écriture sur le disque ? Execution sur le disque ?
+FAIT _ nb strings IP 
+FAIT _ nb_strings_domains
+FAIT _ clés de registres
+_ Date de création du fichier / dernière modification ?
+FAIT _ Persistance (clés, dossiers de démarrage, système, .dll,  écriture sur le disque)
+FAIT _ Appel d'autres exécutable (cmd, powershell, msbuild, cscript, ftp, tftp, bitsadmin, nc, wget)
+FAIT _ Call vers des sites hébergeants du code (pastebin , etc)
+_ Distance dans le code entre 2 call d'API
+_ Anti-debugging dans les macros ?
+
+
+.exe
+_ FAIT Taille des sections
+_ CHANGE Dépendance des .dll CHANGED TO (statistiques sur fichier sains et malveillantes, conserve la dll qui a le score de le plus critique et la moyenne sur notre échantillon)
+_ CHANGE Noms des .dll (call Internet Explorer)
+_ CHANGE Nom de fonction dans la section .data (call system)  CHANGED TO (statistiques sur les imports dans les dll, conserve le core le plus critique et la moyenne)
+_ FAIT ratio .txt et .data
+_ DESCOPE - Accès au système de fichier
+DANS LES STRINGS
+_ Appel d'autres exécutable (cmd, powershell, cscript, ftp, tftp, bitsadmin, nc, wget) 
+_ Call vers des sites hébergeants du code (pastebin , etc)
+_ Call vers des IP
+_ Call vers le système (UAC)
+_ Persistance (clés, dossiers de démarrage, système, .dll,  écriture sur le disque)

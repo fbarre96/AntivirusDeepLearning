@@ -1,0 +1,17 @@
+%APPDATA%
+%APPDATA%\..\Local\Temp
+%PUBLIC%
+%ALLUSERSPROFILE%
+C:\Windows\System32
+C:\Windows\Temp
+%CommonProgramFiles%
+%ProgramFiles%
+%APPDATA%\Microsoft\Windows\AccountPictures
+%APPDATA%\Microsoft\Windows\CloudStore
+%APPDATA%\Microsoft\Windows\Libraries
+%APPDATA%\Microsoft\Windows\Start Menu
+%APPDATA%\Microsoft\Windows\Network Shortcuts
+%APPDATA%\Microsoft\Windows\Printer Shortcuts
+%APPDATA%\Microsoft\Windows\SendTo
+%APPDATA%\Microsoft\Windows\Templates
+%APPDATA%\Microsoft\Windows\Themes

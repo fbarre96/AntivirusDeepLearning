@@ -1,0 +1,6 @@
+Apprendre Machine Learning:
+    https://brilliant.org/
+
+
+Apprendre Deep Learning:
+    https://tech.io/playgrounds/9487/deep-learning-from-scratch---theory-and-implementation/computational-graphs

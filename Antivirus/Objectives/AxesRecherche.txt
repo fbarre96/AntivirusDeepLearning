@@ -1,0 +1,20 @@
+Court terme :
+
+Qu'est ce que le machine learning ? 
+    -> Les différentes méthodes d'apprentissage = Deep Learning/Machine Learning 
+    -> Comment l'apprentissage de chaque méthode marche Deep Learning != Machine Learning
+    -> Découverte des algorithmes d'apprentissage (Random Forest, Decisionnal Tree, SVM (Support Vector Machine))
+
+Une fois avoir "compris" comment le machine learning fonctionnait, il a fallut choisir entre chaque méthodes d'apprentissage.  
+    -> Différences entre chaque algorithme d'apprentissage
+    -> Quel(s) algorithme(s) serait le plus approprié pour notre projet
+    -> Définir sur quel(s) type(s) de fichier nous allions travailler (binaire/docx)
+
+L'algorithme étant choisi, il faut maintenant en définir les bases. On sait que les algorithmes de machine learning marche avec des "features".
+    -> Définir les features(variables) permettant d'enrichir nos tests afin de faire "apprendre" à notre IA comment on veut qu'il fonctionne
+    -> Faire des tests avec de nombreuses features afin de les classifier par importances. Ce qui permettra de ne récupérer que les features vraiment importantes et pertinentes.
+
+
+Récuperer des fichiers infectés et clean afin de faire apprendre à notre algorithme
+    -> Le faire jouer avec nos fichiers cleans/infectés afin de lui faire apprendre et qu'il comprenne où aller chercher les informations essentielles à la détection d'un fichier malveillant
+

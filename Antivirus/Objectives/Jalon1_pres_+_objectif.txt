@@ -1,0 +1,20 @@
+Jalon 1
+Présentation du sujet:
+
+
+Le sujet de notre groupe de majeure est : 
+Machine Learning - Strenghten the Defense by the Offensive.
+C'est à dire que nous allons chercher dans quelles mesures un antivirus peut
+s'améliorer via des algorithmes de deep learning afin de pouvoir detecter de nouveaux virus
+en se basant sur des "actions" typiques des virus
+
+Objectifs:
+
+Comprendre comment fonctionne le machine learning
+Determiner des critères de classification pertinents
+Mettre en place une infrastructure hôte pour notre antivirus
+Choisir un type d'apprentissage
+Récolter des samples de malwares pour entrainer l'antivirus
+Coder l'algorithme de machine learning
+Entrainer l'antivirus et ajuster les différents paramètres afin d'obtenir le meilleur résultat possible
+

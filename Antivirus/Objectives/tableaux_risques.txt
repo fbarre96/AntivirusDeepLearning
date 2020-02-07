@@ -1,0 +1,9 @@
+Très grave            Défaillance mat     Non réception mat    Problème de perf  Défaut de sandboxing
+
+Grave            Très peu d'échantillons Incapacité de PoC   Mauvais mode d'apprentissage Problème d'extraction des critères                       
+
+Moyen                Arrêt d'un membre   Pas assez de temps Infection de notre solution Critères incorrects
+
+Faible                  N/A                     N/A            Projet trop ambitieux   N/A
+
+Gravite/Probabilité   Très improbable        Improbable           Probable           Très probable

@@ -1,0 +1,32 @@
+http://www.lancs.ac.uk/~richarc2/dissertation.pdf
+
+Notes:
+1. Décider d'un système de trace complet (Logs, disk, réseau, syscall, memory...)
+2. Faire un lab
+3. Trouver des virus (VX heavens)
+Puis soit:
+	Recueillir des traces de l'activités de malwares.
+	Deep learning pour trouver des patterns.
+Soit:
+	Receuilleir des traces d'activités standards.
+	Deep learning pour trouver des hors-patterns.
+Soit les deux
+
+4. Virus:
+	polymorphic -> en gros packer
+	metamorphic -> evolve the code -> swap registers, inverse la logique de certaines opérations...
+
+
+5. Traces:
+	Fan-in fan-out > ratio traffic réseau entrant sortant
+	Parzen window as a method for detecting net-
+	Naive bayes
+work anomalies for their Network Intrusion Detection System
+
+6. Voir CWSandbox pour les activités :
+	-changes to the Windows registry
+	-reation or modification of registry keys
+
+Identifié la famille de logiciel avant de l'analyser
+ou
+training sur des familles de données

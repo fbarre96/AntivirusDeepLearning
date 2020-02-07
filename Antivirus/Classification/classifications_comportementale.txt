@@ -1,0 +1,58 @@
+.doc
+_ Appels vers d'autres sites
+_ Traffic réseau entrant
+_ Ratio traffic entrant/sortant
+_ Flux non sécurisés
+_ Ports non standard
+_ Géoloc des IP
+_ % CPU utilisé
+_ % GPU utilisé
+_ % Mémoire utilisé
+_ Entrées/Sorties disques
+_ Nombre de thread
+_ Temps d'exécution
+_ Création/modification de registres
+_ Accès aux fichiers système
+_ Création/Modification de fichiers sur le disque
+_ Appel un autre processus
+_ Création d'objets
+
+.xls
+_ Appels vers d'autres sites
+_ Traffic réseau entrant
+_ Ratio traffic entrant/sortant
+_ Flux non sécurisés
+_ Ports non standard
+_ Géoloc des IP
+_ % CPU utilisé
+_ % GPU utilisé
+_ % Mémoire utilisé
+_ Entrées/Sorties disques
+_ Nombre de thread
+_ Temps d'exécution
+_ Création/modification de registres
+_ Accès aux fichiers système
+_ Création/Modification de fichiers sur le disque
+_ Appel un autre processus
+_ Création d'objets
+
+.exe
+_ Appels vers d'autres sites
+_ Traffic réseau entrant
+_ Ratio traffic entrant/sortant
+_ Flux non sécurisés
+_ Ports non standard
+_ Géoloc des IP
+_ % CPU utilisé
+_ % GPU utilisé
+_ % Mémoire utilisé
+_ Entrées/Sorties disques
+_ Nombre de thread
+_ Temps d'exécution
+_ Création/modification de registres
+_ Accès aux fichiers système
+_ Création/Modification de fichiers sur le disque
+_ Privileges (debug / backup)
+_ Fork
+_ Call sur un autre processus
+_ Création d'objets

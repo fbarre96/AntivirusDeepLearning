@@ -1,0 +1,10 @@
+paramètres RBF SVM:
+    -gamma: Définit à quel point un échantillon de donnée influencera les coefficients (courbe) de décision
+    
+            Gamma faible : Les points proches de la courbe de décision on une influence faible grâce aux points éloignés de la courbe qui compensent (courbe plus "smooth" / droite)
+            Gamme élevé : Les points proches de la courbe de décision on une forte influence sur la forme de la courbe (déformation pour aller chercher des points de l'autre coté par rapport à une droite)
+    
+    -C : Définit à quel point un échantillon de donnée influencera la surface de décision.
+
+tuto classification :
+http://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#sphx-glr-auto-examples-classification-plot-digits-classification-py

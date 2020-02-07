@@ -1,0 +1,29 @@
+Machine Learning - supervisé - classification
+
+Analyse statique malwares
+
+Arbre de tree décisionnel ??
+
+Tensorflow / Scikit learn ? => Scikit Learn Random Forest pour faire du machine learning supervisé avec classification basée sur des arbres décisionnels.
+
+Critères de classification / Variables à alimenter / Comment extraire ces informations ?
+
+Quels types de malwares à cibler ? .doc/.docm ? .xls/.xlsm ? .exe ?
+
+
+
+Tâches:
+
+_ Dév un test de détection virus/pas virus très basique sur un nombre random (alex / fabien)
+
+_ Définir les critères de classification, les variables (erwan / félix / romain)
+
+        => Comment extraire / parser ces informations ? 
+
+
+_ Récupérer le type de sample visé (.doc / .xls / .exe ?)
+
+
+_ Infra
+
+_ Etude risque + PPT

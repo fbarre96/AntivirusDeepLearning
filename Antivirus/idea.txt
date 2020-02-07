@@ -1,0 +1,20 @@
+Scikit Learn => RandomForest to analyze multiple decisional trees.
+
+_ Partie traitement binaire/fichiers
+=> A traiter ; Extraire des ranges de valeurs des caractéristiques (Modèle bon ou mauvais en fonction de ça)
+=> Un module extrait les caracs du binaire et on se retrouve avec un vecteur de caractéristiques
+=> Comment le représenter ? Ajoute une ligne vers un .csv par exemple ;
+=> On va avoir des données permettant de déterminer si le binaire est safe ou non
+=> Phase entrainement a besoin de connaitre la vraie valeur des fichiers qu'on lui passe
+=> On lui recorrige les valeurs s'il s'est gourré
+=> Avoir le plus de lignes possibles pour entrainer le modèle
+
+_ Partie IA:
+=> Pour les prédictions, il faut que les features soient discriminantes et pertinentes
+=> S'assurer que nos features sont intéressantes
+=> Différence entre arbre de décision et random forest, l'arbre on arrive sur les feuilles (noeuds) de l'arbre et on descend au fur et à mesure ; Le résultat eat basé sur un seul arbre et on ne peut pas avoir de stats alors qu'avec random forest on fait une forêt d'arbres de décisions en déclenchant certains arbres au fur et à mesure afin d'améliorer les résultats. A la fin on va avoir un % de chances que le fichier est un virus ou non
+=> Nombre d'arbres à définir, les features à définir, la random forest va permettre de remonter les features les plus pertinentes pour obtenir les meilleurs résultats, on peut jouer sur la profondeur des arbres, on peut jouer sur le nombre de features par arbre. On peut séparer les splits dans les jeux de données pour entrainer et prédire
+
+En résulte la précision et une matrice pour savoir ce qu'on pourrait améliorer, on essaie de créer notre dataset en fonction
+
+Pour tester le modèle on peur se servir de valeur de référence à atteindre avec les probas

@@ -1,0 +1,12 @@
+Le projet SDO est constitué de cinq membres. Nous n'avons pas de rôles assignés hormis celui de chef de projet. Nous avançons ensemble sur les différentes tâches en partageant les connaissances sur ce sujet nouveau pour nous.
+
+Toutefois la constitution officielle de l'équipe est comme suit:
+_ Membre projet SDO: Fabien BARRE
+_ Membre projet SDO: Félix DUBOC
+_ Membre projet SDO: Erwan FILY
+_ Membre projet SDO: Alex FOURNIER
+_ Chef de projet SDO: Romain KOSZYK
+
+Pour le moment, il n'y a pas de profils techniques établis, nous sommes toujours en phase d'apprentissage et décisionnelle quant au fonctionnement de notre intelligence artificielle.
+
+

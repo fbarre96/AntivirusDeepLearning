@@ -1,0 +1,59 @@
+Jalon 1 : présentation 
+26/09/2018
+
+- Présentation du sujet - Félix
+- Objectifs - Félix
+- Planning prévisionnel - Done - Romain
+- Organisation de l'équipe - Done - Romain 
+- Axes de développements et de recherche - Alex
+- Etude de risque projet - Romain
+
+Evaluation : 0.1
+
+15 mn d'exposé + 5 mn de Q/R
+
+--------------------------------------------------
+
+Jalon 2 : point intermédiaire 1
+6/11/2018
+
+- Atteinte des objectifs / planning
+- Avancement de développements et des recherches
+- Points durs à lever
+- Prototype / Maquette
+
+Evaluation : 0.2
+
+20 mn d'exposé + 10 mn de Q/R
+
+-------------------------------------------------
+
+Jalon 3 : point intermédaire 2
+21/12/2018
+
+- Atteinte des objectifs / planning
+- Avancement de développements et des recherches
+- Points durs à lever
+- Démonstrateur avancé / Pré-rapport de synthèse
+
+Evaluation : 0.2
+
+20 mn d'exposé + 10 mn de Q/R
+
+-------------------------------------------------
+
+Jalon 4 : soutenance finale
+31/01/2019
+
+- Présentation du sujet
+- Objectifs
+- Planing réalisé / prévisionnel
+- Organisation de l'équipe
+- Synthèse des développements et des recherches
+- Démonstrateur final / Rapport de synthèse
+- Publication du dossier Mémoire
+- Suite à donner
+
+Evaluation : 0.5
+
+25 mn d'exposé + 15 mn de Q/R
